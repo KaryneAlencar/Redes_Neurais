@@ -1,35 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/projeto/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/Data/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro1/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro2/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/limit.def/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro3/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/smc/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro4/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/MLP/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro4/limit.def/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/Perceptron/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
     <url>
-         <loc>https://KaryneAlencar.github.io/Redes_Neurais/roteiro4/smc/</loc>
+         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/limit.def/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/smc/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/limit.def/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/smc/</loc>
+         <lastmod>2026-08-12</lastmod>
+    </url>
+    <url>
+         <loc>https://karynealencar.github.io/Redes_Neurais/projeto/</loc>
          <lastmod>2026-08-12</lastmod>
     </url>
 </urlset>
