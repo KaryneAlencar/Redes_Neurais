@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_name: Redes Neurais e Deep Learning
+site_author: Alencar, k.
+site_url: https://KaryneAlencar.github.io/Redes_Neurais
+repo_url: https://github.com/KaryneAlencar/Redes_Neurais.git
+repo_name: KaryneAlencar/Redes_Neurais
 
 theme:
   name: material
