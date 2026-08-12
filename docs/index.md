@@ -13,10 +13,12 @@
 
 ## Entregas
 
-- [ ] Roteiro 1 
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
+- [ ] Data
+- [ ] Perceptron
+- [ ] MLP
+- [ ] Transformers & Attention
+- [ ] VAE
+- [ ] LLM Fine-Tuning
 - [ ] Projeto
 
 ## Diagramas
