@@ -141,11 +141,12 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - This documentation: ./thisdocumentation/index.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/index.md
-    - Roteiro 2: ./roteiro2/index.md
-    - Roteiro 3: ./roteiro3/index.md
-    - Roteiro 4: ./roteiro4/index.md
-    - Notebook 1: ./notebook1/ex1_data.ipynb
+  - Exercícios:
+    - Data: ./Data/index.md
+    - Perceptron: ./Perceptron/index.md
+    - MLP: ./MLP/index.md
+    - Transformers & Attention: ./Transformers & Attention/index.md
+    - VAE: ./VAE/index.md
+    - LLM Fine-Tuning: ./LLM Fine-Tuning/index.md
+  
   - Projeto: ./projeto/index.md
