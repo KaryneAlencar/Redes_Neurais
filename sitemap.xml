@@ -2,58 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://karynealencar.github.io/Redes_Neurais/</loc>
-         <lastmod>2026-08-12</lastmod>
+         <lastmod>2026-08-27</lastmod>
     </url>
     <url>
          <loc>https://karynealencar.github.io/Redes_Neurais/Data/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/limit.def/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/LLM%20Fine-Tuning/smc/</loc>
-         <lastmod>2026-08-12</lastmod>
+         <lastmod>2026-08-27</lastmod>
     </url>
     <url>
          <loc>https://karynealencar.github.io/Redes_Neurais/MLP/</loc>
-         <lastmod>2026-08-12</lastmod>
+         <lastmod>2026-08-27</lastmod>
     </url>
     <url>
          <loc>https://karynealencar.github.io/Redes_Neurais/Perceptron/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/limit.def/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/Transformers%20%26%20Attention/smc/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/limit.def/</loc>
-         <lastmod>2026-08-12</lastmod>
-    </url>
-    <url>
-         <loc>https://karynealencar.github.io/Redes_Neurais/VAE/smc/</loc>
-         <lastmod>2026-08-12</lastmod>
+         <lastmod>2026-08-27</lastmod>
     </url>
     <url>
          <loc>https://karynealencar.github.io/Redes_Neurais/projeto/</loc>
-         <lastmod>2026-08-12</lastmod>
+         <lastmod>2026-08-27</lastmod>
     </url>
 </urlset>
