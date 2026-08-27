@@ -16,9 +16,6 @@
 - [ ] Data
 - [ ] Perceptron
 - [ ] MLP
-- [ ] Transformers & Attention
-- [ ] VAE
-- [ ] LLM Fine-Tuning
 - [ ] Projeto
 
 ## Diagramas
