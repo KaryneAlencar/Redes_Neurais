@@ -145,8 +145,5 @@ nav:
     - Data: ./Data/index.md
     - Perceptron: ./Perceptron/index.md
     - MLP: ./MLP/index.md
-    - Transformers & Attention: ./Transformers & Attention/index.md
-    - VAE: ./VAE/index.md
-    - LLM Fine-Tuning: ./LLM Fine-Tuning/index.md
   
   - Projeto: ./projeto/index.md
