@@ -142,8 +142,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - Exercícios:
-    - Data: ./Data/index.md
-    - Perceptron: ./Perceptron/index.md
-    - MLP: ./MLP/index.md
+    - Data: ./exercises/data/index.md
+    - Perceptron: ./exercises/perceptron/index.md
+    - MLP: ./exercises/MLP/index.md
   
   - Projeto: ./projeto/index.md
