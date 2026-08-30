@@ -114,15 +114,15 @@ Dentre todas as decisões de pré-processamento tomadas, a transformação logar
 
 | # | Item | Seu valor |
 |---|---|---|
-| 1 | Taxa de mistura em $s=0.5$ | 0.0000 |
-| 2 | Taxa de mistura em $s=1.0$ | 0.0675 |
-| 3 | Taxa de mistura em $s=2.0$ | 0.2250 |
-| 4 | Taxa de mistura em $s=4.0$ | 0.4175 |
-| 5 | Menor $r_{ij}$ em $s=1.0$, e qual é o par | 1.3258 (Classe 0 e 1) |
+| 1 | Taxa de mistura em `s=0.5` | 0.0000 |
+| 2 | Taxa de mistura em `s=1.0` | 0.0675 |
+| 3 | Taxa de mistura em `s=2.0` | 0.2250 |
+| 4 | Taxa de mistura em `s=4.0` | 0.4175 |
+| 5 | Menor `r_{ij}` em `s=1.0`, e qual é o par | 1.3258 (Classe 0 e 1) |
 | 6 | Distância entre os centros - Dataset I | 3.3541 |
 | 7 | Distância entre os centros - Dataset II | 0.2347 |
-| 8 | Variância explicada $PC1+PC2$ - Dataset I | 0.6723 |
-| 9 | Variância explicada $PC1+PC2$ - Dataset II | 0.4310 |
+| 8 | Variância explicada `PC1+PC2` - Dataset I | 0.6723 |
+| 9 | Variância explicada `PC1+PC2` - Dataset II | 0.4310 |
 | 10 | Proporção da classe positiva em Transported | 50.36% |
 | 11 | Média e mediana de FoodCourt no treino, antes de transformar | Média: 458.077203, Mediana: 0.0 |
 | 12 | shape final da matriz de features de treino | (6954, 17) |
