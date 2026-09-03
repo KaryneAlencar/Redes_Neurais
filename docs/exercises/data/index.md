@@ -1,6 +1,6 @@
 ---
 exercise: data
-ai_use: "Estruturação do relatório em Markdown a partir das regras da disciplina usando o Gemini."
+ai_use: "Estruturação do relatório em Markdown"
 ---
 
 ## Exercício 1
